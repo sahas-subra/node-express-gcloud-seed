@@ -1,7 +1,7 @@
 {
-  "name": "node-express-seed",
+  "name": "nodejs-hmac-protection",
   "version": "1.0.0",
-  "description": "seed project",
+  "description": "nodejs express api protected by HMAC signature",
   "main": "dist/app.js",
   "engines": {
     "node": "~5.2.0"
@@ -38,6 +38,7 @@
     "express": "^4.14.0",
     "express-content-length-validator": "^1.0.0",
     "express-rate-limit": "^2.4.0",
+    "hashmap": "^2.3.0",
     "helmet": "^2.1.2",
     "nodemon": "^1.10.0",
     "q": "^1.4.1",
